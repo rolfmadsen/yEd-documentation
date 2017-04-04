@@ -11,4 +11,8 @@ Overlappende linjer gøres lettere at skelne fra hinanden med "Bridge style" und
 
 ## Snap lines
 
+![Sceenshot of Snap lines in eEd Graph Editor](yEd---Graph-Editor/yEd Snap lines.png)
+
 ## Orthogonal edges
+
+![Sceenshot of Bridge style in eEd Graph Editor](yEd---Graph-Editor/yEd Bridge style.png)
